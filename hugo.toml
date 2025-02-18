@@ -1,0 +1,107 @@
+baseURL = "http://theinstrumentcompany.com/"
+languageCode = "en-us"
+title = "The Instrument Company"
+theme = "Agnes"
+
+[params]
+	dateFormat = "Jan 2, 2023" 
+	authorName = "the Instrument Company"
+	google_analytics_id = "GA-"
+	
+[menu]
+	[[menu.main]]
+		Name = "Contact"
+		URL = "#"
+		weight = 1
+	
+	[[menu.main]]
+		Name = "About us"
+		URL = "#"
+		weight = 2
+	
+	[[menu.main]]
+		Name = "Privacy Policy"
+		URL = "#"
+		weight = 3
+	
+#	[[menu.main]]
+#		Name = "Support"
+#		URL = "#"
+#		weight = 4
+		
+[params.social]
+	TwitterURL = "https://twitter.com/"
+	GoogleURL = "http://google.com/"
+	FacebookURL = "https://facebook.com/"
+		
+[params.content]
+	LeadTitle = "Designed by a Chiropractor for Chiropractors"
+	LeadDescription = "The Delta-T™ is the best dual-probe Chiropractic instrument available."
+	ButtonCaption = "Order Now"
+	ButtonURL = "http://google.com"
+
+################### Feature Columns (do not exceed 4) ####################
+
+[[params.feature]]
+	FeatureTitle = "Easy to Use"
+	FeatureDescription = "Comfortable to hold, easy to clean, and uses standard 9-volt battery."
+	FeatureImage = "images/Hand.png"
+	
+[[params.feature]]
+	FeatureTitle = "Custom Probes"
+	FeatureDescription = "Probe width can be adjusted quickly and easily with finger-tip control."
+	FeatureImage = "images/Probe.png"
+
+[[params.feature]]
+	FeatureTitle = "Reliable Thermocouples"
+	FeatureDescription = "Durable thermocouple heat sensors never need replacing."
+	FeatureImage = "images/Thermocouples.png"
+	
+[[params.feature]]
+	FeatureTitle = "Precision Readings"
+	FeatureDescription = "Dual-range sensitivity provides more precise meter readings."
+	FeatureImage = "images/Meter.png"
+	
+################### Pricing Columns (do not exceed 3) ####################
+
+
+[[params.pricing]]
+	PricingTitle = "Standard Model Delta-T"
+	PricingRate = "920"
+	ButtonCaption = "Order Now"
+ 	ButtonURL = "https://example.com/earlier-access.html"
+	[[params.pricing.Features]]
+		Description = "Weighs only 11 ounces"
+	[[params.pricing.Features]]
+		Description = "Shock resistant case"
+	[[params.pricing.Features]]
+		Description = "Fits comfortably in hand"	
+	
+	
+[[params.pricing]]
+	PricingTitle = "Delta-T Plus"
+	PricingRate = "TBA"
+	ButtonCaption = "Coming Soon"
+ 	ButtonURL = "https://example.com/earliest-access.html"
+	[[params.pricing.Features]]
+		Description = "Same use and feel as the standard model, but with updated features"
+	[[params.pricing.Features]]
+		Description = "Highly responsive and vivid display"
+	[[params.pricing.Features]]
+		Description = "Rechargeable battery"
+	[[params.pricing.Features]]
+		Description = "Able to connect to share readings to other compatible devices"
+	
+
+[[params.testimonial]]
+	TestimonialTitle = "It’s just what we need ..."
+	TestimonialDescription = "Dr. Clarence Gonstead (deceased) | Mt. Horeb, Wisconsin"
+[[params.testimonial]]
+	TestimonialTitle = "I like the smoothness of operation due to the glide of the teflon tips on the skin and the angle that the probes make when it is used on the cervical spine."
+	TestimonialDescription = "Dr. Larry Troxell | Clinton, Iowa"
+[[params.testimonial]]
+	TestimonialTitle = "Superior quality and performance. Obviously designed by a Chiropractor. I really like the smooth glide."
+	TestimonialDescription = "Dr. Herb Wood | Colorado Springs, Colorado"
+[[params.testimonial]]
+	TestimonialTitle = "I find the Delta-T™ is the most effective instrument for finding the difference between a heat reading and a nerve interference reading."
+	TestimonialDescription = "Dr. Richard A. Gohl | Glendale, California"
