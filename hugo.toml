@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://bmelowens.github.io/website/"
 languageCode = "en-us"
 title = "The Instrument Company"
 theme = "Agnes"
