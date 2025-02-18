@@ -1,0 +1,6 @@
+[submodule "themes/Agnes"]
+	path = themes/Agnes
+	url = git://github.com/dchucks/agnes-hugo-theme.git
+[submodule "Agnes"]
+	path = Agnes
+	url = git://github.com/dchucks/agnes-hugo-theme.git
