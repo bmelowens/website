@@ -1,4 +1,4 @@
-baseURL = "http://theinstrumentcompany.com/"
+baseURL = "https://theinstrumentcompany.com/"
 languageCode = "en-us"
 title = "The Instrument Company"
 theme = "Agnes"
