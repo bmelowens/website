@@ -105,3 +105,10 @@ theme = "Agnes"
 [[params.testimonial]]
 	TestimonialTitle = "I find the Delta-T™ is the most effective instrument for finding the difference between a heat reading and a nerve interference reading."
 	TestimonialDescription = "Dr. Richard A. Gohl | Glendale, California"
+
+	canonifyURLs = false
+relativeURLs = false
+
+PygmentsCodeFences = false
+PygmentsStyle = "monokai"
+paginate = 10

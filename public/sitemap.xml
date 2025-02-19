@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/website/posts/my-first-post/</loc>
+    <loc>https://bmelowens.github.io/website/posts/</loc>
     <lastmod>2025-02-12T11:37:49-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/posts/</loc>
+    <loc>https://bmelowens.github.io/website/</loc>
     <lastmod>2025-02-12T11:37:49-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/</loc>
-    <lastmod>2025-02-12T11:37:49-06:00</lastmod>
+    <loc>https://bmelowens.github.io/website/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/website/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/website/tags/</loc>
+    <loc>https://bmelowens.github.io/website/tags/</loc>
   </url>
 </urlset>
